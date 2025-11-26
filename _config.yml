@@ -19,8 +19,7 @@ title: Stanford NLP Blog # the main title
 tagline: Blog for use by the Stanford NLP Group 
 # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-The Stanford University NLP Group
+description: The Stanford University NLP Group # used by seo meta and the atom feed The Stanford University NLP Group
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
