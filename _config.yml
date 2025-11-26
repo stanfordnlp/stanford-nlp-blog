@@ -14,12 +14,13 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Stanford NLP Blog # the main title
+title: Stanford NLP Blog 
+# the main title
 
-tagline: Blog for use by the Stanford NLP Group 
+tagline: Blog for use by the Stanford NLP Group
 # it will display as the subtitle
 
-description: The Stanford University NLP Group 
+description: The Stanford University NLP Group
 # used by seo meta and the atom feed The Stanford University NLP Group
 
 # Fill in the protocol & hostname for your site.
